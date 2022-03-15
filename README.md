@@ -1,4 +1,4 @@
-# Merge-Conflicts
+REMOTE
 
 Je réalise la quête Git/GitHub 5 : Merge & Conflits
 
