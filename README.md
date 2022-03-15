@@ -1,4 +1,4 @@
-# Merge-Conflicts
+LOCAL
 
 Je réalise la quête Git/GitHub 5 : Merge & Conflits
 
